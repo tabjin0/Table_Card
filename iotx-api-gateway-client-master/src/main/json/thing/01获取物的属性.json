@@ -1,0 +1,41 @@
+{
+  "code": 200,
+  "data": [{
+    "iotId": "aFtFoIRJrzbLZW0p7hNW000100",
+    "gmtModified": 1563498066824,
+    "attribute": "LabelBatteryPercentage",
+    "batchId": "6f723b4cfa054fafa4c66afea6d587e7",
+    "value": 39
+  }, {
+    "iotId": "aFtFoIRJrzbLZW0p7hNW000100",
+    "gmtModified": 1563410927946,
+    "attribute": "ScreenColour",
+    "batchId": "0e4922540da94292b976062fc6fb47a2",
+    "value": 1
+  }, {
+    "iotId": "aFtFoIRJrzbLZW0p7hNW000100",
+    "gmtModified": 1563410927946,
+    "attribute": "ScreenLength",
+    "batchId": "0e4922540da94292b976062fc6fb47a2",
+    "value": 300
+  }, {
+    "iotId": "aFtFoIRJrzbLZW0p7hNW000100",
+    "gmtModified": 1563410927946,
+    "attribute": "ScreenType",
+    "batchId": "0e4922540da94292b976062fc6fb47a2",
+    "value": 0
+  }, {
+    "iotId": "aFtFoIRJrzbLZW0p7hNW000100",
+    "gmtModified": 1563410927946,
+    "attribute": "ScreenWidth",
+    "batchId": "0e4922540da94292b976062fc6fb47a2",
+    "value": 400
+  }, {
+    "iotId": "aFtFoIRJrzbLZW0p7hNW000100",
+    "gmtModified": 1563498066824,
+    "attribute": "SignalIntensity",
+    "batchId": "6f723b4cfa054fafa4c66afea6d587e7",
+    "value": 60
+  }],
+  "id": "48e5a12e-c01c-4cb7-bb92-d3b9ea2db65f"
+}

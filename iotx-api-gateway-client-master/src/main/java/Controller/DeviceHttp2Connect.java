@@ -15,8 +15,8 @@ import java.io.UnsupportedEncodingException;
 
 public class DeviceHttp2Connect {
 
-    public static void main(String[] args) {
-
+    public static void main(String[] args) throws UnsupportedEncodingException {
+        http2Contect();
     }
 
 
@@ -47,6 +47,7 @@ public class DeviceHttp2Connect {
         MessageCallback messageCallback = new MessageCallback() {
             public Action consume(MessageToken messageToken) {
 
+                String str = "123";
                 System.out.println("receive : " + new String(messageToken.getMessage().getPayload()));
                 return Action.CommitSuccess;// 成功
             }

@@ -1,0 +1,19 @@
+{
+  "code": 200,
+  "data": {
+    "gmtModified": 1562048434000,
+    "activeTime": 1562310268409,
+    "deviceKey": "aFtFoIRJrzbLZW0p7hNW",
+    "productKey": "a1A4mypFduo",
+    "statusLast": 3,
+    "gmtCreate": 1562048434000,
+    "iotId": "aFtFoIRJrzbLZW0p7hNW000100",
+    "deviceSecret": "ZtScMa60ihzmEVnjuvOWEgmFGrH8HJUt",
+    "name": "d896e000090002ab",
+    "thingType": "DEVICE",
+    "region": "cn-shanghai",
+    "rbacTenantId": "4AD767A474CE40D8AF6812E885975421",
+    "status": 1
+  },
+  "id": "f262a963-2c55-4b83-b310-bfb6e49d90d7"
+}
