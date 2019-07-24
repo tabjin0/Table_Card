@@ -21,9 +21,9 @@ public class Thing {
 //        getProductTemplate();// 获取物的模板 ok
 //        invokeThingService();// 触发物的服务
 //        setThingPropertities();// 设置物的属性
-//        getThingStatus();// 获取物的状态 ok
-//        getThingInfo();// 获取物的基本信息 ok
-        batchToGetProduct();// 批量获取物 ok
+        getThingStatus();// 获取物的状态 ok
+        getThingInfo();// 获取物的基本信息 ok
+//        batchToGetProduct();// 批量获取物 ok
 
     }
 

@@ -40,4 +40,29 @@ public class PathContants {
 
     /**  生活物联网平台 -> 开发指南 -> 远端开发指南 -> 物的模型服务 -> 批量获取物 */
     public static final String THING_BATCH_TO_GET_THING = "/cloud/things/get";
+
+    /**  模板 -> 创建模板  */
+    public static final String TEMPLATE_ADD_TEMPLATE = "/living/esl/template/add";
+
+    /**  模板 -> 修改模板  */
+    public static final String TEMPLATE_UPDATE_TEMPLATE = "/living/esl/template/update";
+
+    /**  模板 -> 删除模板  */
+    public static final String TEMPLATE_DELETE_TEMPLATE = "/living/esl/template/delete";
+
+    /**  模板 -> 模板详情查询  */
+    public static final String TEMPLATE_GET_TEMPLATE = "/living/esl/template/get";
+
+    /**  模板 -> 模板查询（分页）  */
+    public static final String TEMPLATE_QUERY_TEMPLATE = "/living/esl/template/query";
+
+    /**  模板 -> 绑定设备模板  */
+    public static final String TEMPLATE_DEVICE_BIND_TEMPLATE = "/living/esl/template/device/bind";
+
+    /**  模板 -> 发送模板数据  */
+    public static final String TEMPLATE_MESSAGE_SEND = "/living/esl/template/message/send";
+//
+//    /**  模板 -> 模板详情查询  */
+//    public static final String TEMPLATE_ADD_TEMPLATE = "/living/esl/template/add";
+
 }

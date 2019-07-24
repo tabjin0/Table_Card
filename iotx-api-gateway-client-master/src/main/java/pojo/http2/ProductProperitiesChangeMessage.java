@@ -23,6 +23,15 @@ public class ProductProperitiesChangeMessage implements Serializable {
     // 设备名称  LoRa电子标签
     private String deviceName;
 
+
     // 变更的状态列表，列表元素包括：attribute - 变更属性, value - 变更值, time - 采样时间
     private JSON items;
+
+    public JSON getItems() {
+        return items;
+    }
+
+    public void setItems(JSON items) {
+        this.items = items;
+    }
 }

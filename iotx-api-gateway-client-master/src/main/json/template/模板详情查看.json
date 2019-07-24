@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "data": {
+    "code": "2433",
+    "name": "新的",
+    "width": 100,
+    "type": 1,
+    "version": "2433",
+    "elementList": [{
+      "elementKey": "2433",
+      "elementStruct": "{\"color\":1,\"drawLineType\":3,\"encode\":1,\"fontSize\":24,\"fontType\":1,\"left\":100,\"levelAlign\":2,\"top\":100}",
+      "elementType": "sltext"
+    }],
+    "height": 100
+  },
+  "id": "9e2ef2ea-5152-4e48-8f89-683e57f792be"
+}
